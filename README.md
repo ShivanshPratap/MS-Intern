@@ -2,7 +2,8 @@
 
 # MS by Shivansh Pratap
 
-Here I created a Healthy Food related web apps named as Salads that helps the customer to find good products in cheap rates
+Here I created a Healthy Food related web app named as Salads that helps the customer to find good Salads at cheap rates and adopt a good healthy lifestyle
+and created a wide variety of menus so people can share their thought and ideas by making blogs that can be ready by customers. Customers can also Subscribe to get email updates of our latest news or blogs.
 
 # My website link: 
 
