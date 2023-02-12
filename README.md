@@ -2,9 +2,8 @@
 
 # MS by Shivansh Pratap
 
-Here I created a Healthy Food related web app named as Salads that helps the customer to find good Salads at cheap rates and adopt a good healthy lifestyle
-and created a wide variety of menus so people can share their thought and ideas by making blogs that can be ready by customers. Customers can also Subscribe to get email updates of our latest news or blogs.
-The Core Idea of the Project is to build a sample prototype E-Commerce Website for a business company with the help of HTML, CSS, JAVASCRIPT, and BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of the sample prototype an e-commerce site is to sell goods online This project deals with developing an e-commerce website for Online Salads Sale It provides the user with a catalogue of different products available for purchase in the store. (Green Salads, Fruit Salads, Desert Salads). I'm using Azure Technologies with GitHub to complete this project.
+Here I created a Healthy Food related web app named as Salads that helps the customer to find good Salads at cheap rates and adopt a good healthy lifestyle, I've created a wide variety of menus so people can share their thought and ideas by making blogs that can be ready by customers. Customers can also Subscribe to get email updates of our latest news or blogs.
+The Core Idea of the Project is to build a sample prototype E-Commerce Website for a business company with the help of HTML, CSS, JAVASCRIPT, and BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of the sample prototype an e-commerce site is to sell goods online. This project deals with developing an e-commerce website for Online Salads Sale It provides the user with a catalogue of different products available for purchase in the store. (Green Salads, Fruit Salads, Desert Salads). I'm using Azure Technologies with GitHub to complete this project.
 
 # My website link: https://jolly-glacier-01b158010.2.azurestaticapps.net/index.html
 
