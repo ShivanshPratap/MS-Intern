@@ -29,7 +29,7 @@ The Core Idea of the Project is to build a sample prototypeÂ E-Commerce WebsiteÂ
 ![image](https://user-images.githubusercontent.com/83840568/218342023-71751252-44aa-4ba3-ae6d-0cc641e66b0d.png)
 
 ## A demo video i've created on YouTube to show my project
-
+https://youtu.be/a1g3vQpLt74
 
 ## azure portal Screenshots
 ![image](https://user-images.githubusercontent.com/83840568/218342041-1dbdfa8a-4e8c-4dbc-b1ec-70ef62f49935.png)
